@@ -1,0 +1,22 @@
+[
+    {
+        "string" : "hello world",
+        "foo" : "bar",
+        "integer" : 1024,
+        "object" : {
+            "double" : 3.14,
+            "recursive" : "hello world from inner object"
+        }
+    },
+    1,
+    {
+        "string" : "hello world",
+        "foo" : "bar",
+        "integer" : 1024,
+        "object" : {
+            "double" : 3.14,
+            "recursive" : "hello world from inner object"
+        }
+    },
+    true
+]
