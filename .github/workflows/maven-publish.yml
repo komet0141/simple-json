@@ -14,6 +14,8 @@ jobs:
         with:
           java-version: '8'
           distribution: 'temurin'
+      - name: cd
+        run: cd ./src/main/java
       - name: see dirs
         run: ls
       - name: Publish package
