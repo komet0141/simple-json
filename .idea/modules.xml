@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/json.iml" filepath="$PROJECT_DIR$/json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/simple-json.iml" filepath="$PROJECT_DIR$/.idea/simple-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/simpleJson/simpleJson.iml" filepath="$PROJECT_DIR$/src/main/java/simpleJson/simpleJson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/test/test/test.iml" filepath="$PROJECT_DIR$/src/test/test/test.iml" />
     </modules>
   </component>
 </project>
