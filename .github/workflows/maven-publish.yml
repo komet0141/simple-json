@@ -17,9 +17,7 @@ jobs:
         with:
           java-version: '8'
           distribution: 'temurin'
-      - name: see dirs
-        run: ls
       - name: Publish package
-        run: mvn -X --batch-mode deploy
+        run: mvn --batch-mode deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
