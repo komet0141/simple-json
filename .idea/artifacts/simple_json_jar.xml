@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="simple-json:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/simple_json_jar</output-path>
+    <root id="archive" name="simple-json_jar.jar">
+      <element id="archive" name="simple-json.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
