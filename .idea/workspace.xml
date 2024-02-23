@@ -1,88 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="simpleJson:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284ca8b7-5ee7-411d-bedd-751572cf0ea1" name="Changes" comment="">
+    <list default="true" id="284ca8b7-5ee7-411d-bedd-751572cf0ea1" name="Changes" comment="make dir">
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/simpleJson_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/simple-json.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/simpleJson/simpleJson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/MANIFEST.MF" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/example.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/Driver.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/Driver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/overview-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/serialized-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonArray.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonArray.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonNotable.CommonMethods.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonNotable.CommonMethods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonNotable.JsonParseError.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonNotable.JsonParseError.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonNotable.NumIndentSpace.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonNotable.NumIndentSpace.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonNotable.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonNotable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonObject.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/JsonObject.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonNotable/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/JsonPrimitive.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/JsonPrimitive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/ValueBoolean.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/ValueBoolean.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/ValueDouble.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/ValueDouble.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/ValueInteger.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/ValueInteger.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/ValueString.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/ValueString.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonPrimitive/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonValue.VALUE_TYPE.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonValue.VALUE_TYPE.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonValue.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/JsonValue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/JsonValue/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/util/StringUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/util/StringUtils.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/util/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/util/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/util/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/util/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpleJson/util/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpleJson/util/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json.iml" beforeDir="false" afterPath="$PROJECT_DIR$/simple-json.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleJson/JsonValue/JsonNotable/JsonArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleJson/JsonValue/JsonNotable/JsonNotable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleJson/JsonValue/JsonNotable/JsonObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleJson/JsonValue/JsonPrimitive/JsonPrimitive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleJson/JsonValue/JsonPrimitive/ValueBoolean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleJson/JsonValue/JsonPrimitive/ValueDouble.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleJson/JsonValue/JsonPrimitive/ValueInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleJson/JsonValue/JsonPrimitive/ValueString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleJson/JsonValue/JsonValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleJson/util/StringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/simple_json_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/test.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,12 +23,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="organized-directory" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
   <component name="ProjectId" id="2ckIeRIO75nVshhmFbqaXkXih06" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -108,13 +50,19 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-1.8",
-    "last_opened_file_path": "C:/modding/simple-json/src/main/resources/META-INF",
+    "last_opened_file_path": "C:/modding/simple-json/src/test/META-INF/MANIFEST.MF",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\modding\simple-json\src\test\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
@@ -123,8 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="test" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver" />
         <item itemvalue="Application.Driver" />
       </list>
     </recent_temporary>
@@ -139,5 +101,20 @@
       <updated>1708649244755</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="make dir" />
+    <option name="LAST_COMMIT_MESSAGE" value="make dir" />
   </component>
 </project>
