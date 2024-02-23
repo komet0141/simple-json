@@ -9,13 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284ca8b7-5ee7-411d-bedd-751572cf0ea1" name="Changes" comment="make dir">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/simpleJson_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/simple_json_jar.xml" beforeDir="false" />
+    <list default="true" id="284ca8b7-5ee7-411d-bedd-751572cf0ea1" name="Changes" comment="update package actions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/test.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +29,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: -1
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2ckIeRIO75nVshhmFbqaXkXih06" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,7 +45,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-1.8",
     "last_opened_file_path": "C:/modding/simple-json/src/test/META-INF/MANIFEST.MF",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -67,19 +61,6 @@
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="test" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,6 +81,15 @@
       <option name="presentableId" value="Default" />
       <updated>1708649244755</updated>
     </task>
+    <task id="LOCAL-00001" summary="update package actions">
+      <option name="closed" value="true" />
+      <created>1708671240333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708671240333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="make dir" />
-    <option name="LAST_COMMIT_MESSAGE" value="make dir" />
+    <MESSAGE value="update package actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="update package actions" />
   </component>
 </project>
