@@ -166,7 +166,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708762408904</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update package actions">
+      <option name="closed" value="true" />
+      <created>1708762571613</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708762571613</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update package actions">
+      <option name="closed" value="true" />
+      <created>1708762651422</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708762651422</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
