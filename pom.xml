@@ -4,10 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <!--  no upper case letters in this part  -->
     <groupId>io.github.komet0141</groupId>
     <artifactId>simplejson</artifactId>
     <version>1.1</version>
 
+    <!--  don't forget to change maven-publish.yml  -->
     <properties>
         <java.version>1.8</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
@@ -15,11 +17,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <!--  don't change  -->
     <distributionManagement>
         <repository>
             <id>github</id>
             <name>simple-json</name>
-            <url>https://maven.pkg.github.com/komet0141/simple-json</url>
+            <url>https://maven.pkg.github.com/komet0141/packages</url>
         </repository>
     </distributionManagement>
 </project>
