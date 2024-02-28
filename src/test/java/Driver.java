@@ -1,5 +1,5 @@
-import simpleJson.JsonValue.JsonNotable.JsonArray;
-import simpleJson.JsonValue.JsonNotable.JsonObject;
+import io.github.komet0141.simpleJson.JsonValue.JsonNotable.JsonArray;
+import io.github.komet0141.simpleJson.JsonValue.JsonNotable.JsonObject;
 
 import java.io.File;
 
