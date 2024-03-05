@@ -16,7 +16,11 @@ jobs:
           java-version: 11
           distribution: 'temurin'
       - name: debug
-        run: ls .\src\main\java\io\github\komet0141\simpleJson\
+        run: ls src/main/java/io/github/komet0141/
+      - name: debug
+        run: ls src/main/java/io/github/komet0141/simpleJson/
+      - name: debug
+        run: ls src/main/java/io/github/komet0141/simpleJson/JsonValue
       - name: Publish package
         run: mvn --batch-mode -e deploy
         env:
