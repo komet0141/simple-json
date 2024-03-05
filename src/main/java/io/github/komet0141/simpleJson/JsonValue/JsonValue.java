@@ -3,7 +3,6 @@ package io.github.komet0141.simpleJson.JsonValue;
 import io.github.komet0141.simpleJson.JsonValue.JsonNotable.JsonArray;
 import io.github.komet0141.simpleJson.JsonValue.JsonNotable.JsonObject;
 import io.github.komet0141.simpleJson.JsonValue.JsonPrimitive.*;
-import simpleJson.JsonValue.JsonPrimitive.*;
 
 import java.io.FileWriter;
 import java.io.IOException;
