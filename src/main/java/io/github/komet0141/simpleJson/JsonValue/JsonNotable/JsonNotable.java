@@ -63,7 +63,7 @@ public interface JsonNotable<K> extends JsonValue {
                 JsonValue<?> value = json.getValue(key);
                 
                 fw.write(json.indent(depth + 1) + json.formatKey(key));
-                if (value instanceof JsonNotable) ((JsonObject) value).setDepth(depth + 1);
+                if (value instanceof JsonNotable) ((JsonNotable) value).setDepth(depth + 1);
                 value.exportValue(fw);
                 
                 if (i != keys.length - 1) fw.write(",");
